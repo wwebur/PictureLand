@@ -1,7 +1,7 @@
 # Pictureland-v2
 Pictureland-v2 is an upgraded version of my previous project that is Pictureland-v1. This is a website where you can buy and sell images.
 
-Link to Pictureland-v1 Git Repo: https://github.com/GraniteMask/pictureland
+Link to Pictureland-v1 Git Repo: https://github.com/pnqw/PictureLand.git
 
 ![image](https://user-images.githubusercontent.com/63235918/182243829-96ceb179-7a64-4b92-a85d-69ce218807d8.png)
 
